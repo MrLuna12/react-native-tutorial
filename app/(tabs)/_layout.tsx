@@ -35,7 +35,6 @@ export default function TabsLayout() {
                     ),
                 }}
             />
-            <Tabs.Screen name="+not-found" />
         </Tabs>
     );
 }
